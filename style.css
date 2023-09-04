@@ -1,0 +1,36 @@
+.copy_right_footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:  unset;
+    font-weight: 1000;
+}
+
+h4{
+    color:firebrick;
+    font-family: cursive;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: black;
+}
+
+img{
+    width: 1000px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rbga(2, 2, 2, 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+    border-style: dashed;
+}
+
